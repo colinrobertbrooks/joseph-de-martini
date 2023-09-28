@@ -13,7 +13,7 @@ const App = () => (
     <Signature className="absolute top-[12vh] w-[92vw] m:w-[72vw] max-w-[1200px] h-auto text-[#fad895]">
       <title>Joseph De Martini</title>
     </Signature>
-    <div className="absolute bottom-5 flex gap-4">
+    <div className="absolute bottom-[4vh] flex gap-4">
       <a
         className="text-[#fad895] hover:text-[#fffbf5] focus:text-[#fffbf5]"
         href="https://www.facebook.com/josephdemartiniart"
