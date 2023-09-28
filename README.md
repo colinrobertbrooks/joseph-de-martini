@@ -12,9 +12,9 @@
 
 `$ npm run build`
 
-## Start
+## Preview
 
-`$ npx serve dist`
+`$ npm run preview`
 
 ## Boilerplate
 
